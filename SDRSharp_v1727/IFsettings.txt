@@ -1,0 +1,13 @@
+window_Height 835
+window_Width 481
+Gain 389
+Level 991
+Average 451
+Intermediate_average 1000
+Folder 
+File 
+BackgroundFilebackground
+MaxFilesToSave 0
+Delay 0
+Max_BufferSize 1024
+
